@@ -4,4 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MASHClone.unity
+    guid: ebf5dfbb77fdb2c478bbb84c212497ef
+  - enabled: 1
+    path: Assets/Scenes/win.unity
+    guid: afa096e6eb2b7d343ae4b5303d19b592
+  - enabled: 1
+    path: Assets/Scenes/gameOver.unity
+    guid: 51622eb8e76383e41816a5778ba1442d
+  m_configObjects: {}
